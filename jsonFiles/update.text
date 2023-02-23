@@ -1,0 +1,12 @@
+{\"update\":{},\"fields\":{\"project\":{\"id\":\"10000\"},
+\"summary\":\"create new issue_up\",
+\"issuetype\":{\"id\":\"10102\"},\"priority\":{\"id\":\"3\"},
+\"labels\":[\"tratata\",\"katofff\"],
+\"description\":\"HW4\"}}",
+//{\"update\":{\"summary\":[{\"set\":\"create new issue_update\"}]},
+\"fields\":{\"project\":{\"id\":\"10000\"},
+\"issuetype\":{\"id\":\"10102\"},
+\"reporter\":{\"name\":\"admin\"},
+\"priority\":{\"id\":\"3\"},
+\"labels\":[\"bugfix\",\"blitz_test\"],
+\"description\":\"HW4\"}}"

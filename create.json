@@ -1,0 +1,22 @@
+{
+  "fields": [
+    {
+      "project": "Test"
+    },
+    {
+      "id": "10000"
+    },
+    {
+      "summary": "create new issue."
+    },
+    {
+      "description": "HW4"
+    },
+    {
+      "issuetype": ""
+    },
+    {
+      "id2": "10102"
+    }
+  ]
+}
