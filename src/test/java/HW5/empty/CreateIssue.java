@@ -61,18 +61,4 @@ public class CreateIssue {
 
     }
 
-  /*  public static void local(String id) {
-        Response gettinglocal = given()
-                .baseUri("https://rickandmortyapi.com/api")
-                .when()
-                .get("/character/" + id)
-                .then()
-                .extract()
-                .response();
-      String  getId = (new org.json.simple.JSONObject(jsonObject.getBody().asString()).get("location").toString());
-        speciesBlim = (new org.json.JSONObject(gettinglocal.getBody().asString()).get("species").toString());
-        //    int lastEpisode = Integer.parseInt(new JSONObject(gettingEpisode.getBody().asString()).getJSONArray("episode").get(episode).toString().replaceAll("[^0-9]", ""));
-        System.out.println("\nГде Blim Blam:\n" + locationBlim + "\nТип Blim Blam\n" + speciesBlim);
-
-    }*/
 }
